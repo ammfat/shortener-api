@@ -18,6 +18,9 @@ API blueprint for URL shortener with FastAPI.
     ```
 
 1. Initiate environment variables in `.env` file.
+
+    e.g.:
+
     ```bash
     echo -e "ENV_NAME=\"Development\"\nBASE_URL=\"http://localhost:8000\"\nDB_URL=\"sqlite:///./shortener.db\"" > .env
     ```
