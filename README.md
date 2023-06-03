@@ -1,4 +1,4 @@
-# ammf.at Shortener
+# ammf.at URL Shortener
 
 API blueprint for URL shortener with FastAPI.
 
